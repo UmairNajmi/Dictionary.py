@@ -1,0 +1,25 @@
+# create a Dictionary in python By Umair Najmi
+
+weekDayConverttor = {
+    "Mo": "Monday",
+    "Tu": "Tuesday",
+    "We": "Wednesday",
+    "Th": "Thursday",
+    "Fr": "Friday",
+    "Sa": "Saturday",
+    "Su": "Sunday",
+}
+
+print(weekDayConverttor.get("Mo"))
+print(weekDayConverttor.get("Tu"))
+print(weekDayConverttor.get("We"))
+print(weekDayConverttor.get("Th"))
+print(weekDayConverttor.get("Fr"))
+print(weekDayConverttor.get("Sa"))
+print(weekDayConverttor.get("Su"))
+
+
+# This will print all weekend day in sequences 
+# This is just a simple dictionary of python 
+# Learn python for start to start 
+# Follow me on GitHub
